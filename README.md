@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tahanakabi
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning MLOps and AIOps
-- 💞️ I’m looking to build efficient and robust AI/ML platdorms 
+- 👀 I’m interested in Machine learning and AIOps.
+- 🌱 I’m currently working on exciting ML projects and learning LLM technologies.
+- 💞️ I’m looking to build efficient and robust AI/ML solutions that make the world a better place.
 - 📫 How to reach me abdelhalim.nakabi@gmail.com
 
 <!---
